@@ -53,6 +53,10 @@ concerning for those wary of big losses.
 - `TCS_data.csv`: CSV file with historical stock price data.
 
 
+![Screenshot 2024-08-14 152708](https://github.com/user-attachments/assets/7ec58d2c-ab3c-4367-9995-a5b3e5607a06)
+![Screenshot 2024-08-14 152938](https://github.com/user-attachments/assets/af116775-6d71-4b7f-a1ca-628b64090bce)
+![Screenshot 2024-08-14 153015](https://github.com/user-attachments/assets/4061c2a7-28d4-4bba-bbd4-00c57107566f)
+
 ## 🚀 About Me
 I'm a fourth-year Computer Science Engineering student with a deep passion for uncovering insights from
 data. I'm on the lookout for opportunities in Data Science and Data Analysis where I can put my skills in
